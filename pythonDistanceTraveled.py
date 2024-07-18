@@ -2,7 +2,7 @@
 #BSCpE 1-1
 
 #IV - Programming Exercise
-#   Phython
+#   Python
 #   2.  Distance Traveled
 
 def main():

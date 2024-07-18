@@ -1,19 +1,17 @@
-# IV & V - Programming Exercise
+# Body Mass Index Program Enhancement and Distance Traveled
+This project is developed for a Programming Logic and Design subject, that involves creating programs in Java, Python, and C++ to solve specific problems. The exercises focus on applying fundamental programming concepts such as modular design, input handling, calculations, output formatting, and control structures.
 
-Create programs using Java, Python, and C++ language for each of the following problems. Submit screenshot of the code and output.
+# Problems
+1. Body Mass Index (BMI) Program Enhancement
 
-  1. Body Mass Index Program Enhancement
+- Description: Enhance a previously designed program that calculates a person’s Body Mass Index (BMI). The program now includes functionality to display a message indicating whether the person has an optimal weight, is underweight, or is overweight based on their BMI.
+- Formula: BMI = (Weight × 703) / (Height^2)
+- Weight Categories:
+   <br/> **Optimal weight:** BMI between 18.5 and 25
+   <br/> **Underweight:** BMI less than 18.5
+   <br/> **Overweight:** BMI greater than 25
 
-In Programming Exercise in Lesson 3 you were asked to design a program that calculates a person’s body mass index (BMI). Recall from that exercise that the BMI is often used to determine whether a person with a sedentary lifestyle is overweight or underweight for his or her height. A person’s BMI is calculated with the following formula:
+2. Distance Traveled
 
-BMI = Weight × 703 / Height^2
-
-In the formula, weight is measured in pounds and height is measured in inches. nhance the program so it displays a message indicating whether the person has ptimal weight, is underweight, or is overweight. A sedentary person’s weight
-is considered to be optimal if his or her BMI is between 18.5 and 25. If the BMI is ess than 18.5, the person is considered to be underweight. If the BMI value is reater than 25, the person is considered to be overweight.
-
-  2. Distance Traveled
-  
-The distance a vehicle travels can be calculated as follows: 
-Distance = Speed × Time
-
-For example, if a train travels 40 miles per hour for three hours, the distance traveled is 120 miles. Design a program that asks the user for the speed of a vehicle (in iles per hour) and how many hours it has traveled. It should then use a loop to isplay the distance the vehicle has traveled for each hour of that time period.
+- Description: Design a program that calculates and displays the distance a vehicle travels over time. The program asks the user for the speed of the vehicle (in miles per hour) and the number of hours it has traveled. It then uses a loop to display the distance traveled for each hour of the specified time period.
+- Formula: Distance = Speed × Time

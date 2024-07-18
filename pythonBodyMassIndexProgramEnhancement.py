@@ -2,7 +2,7 @@
 #BSCpE 1-1
 
 #IV - Programming Exercise
-#   Phython
+#   Python
 #   1. Body Mass Index Program Enhancement
 
 def main():
